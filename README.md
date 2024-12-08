@@ -2,8 +2,6 @@
 
 Ce projet porte sur la classification par parti politique des interventions au Parlement européen, dans le cadre de la tâche 3 de l'édition 2009 du DÉfi Fouille de Texte (DEFT).
 
----
-
 ## 📚 Description du projet
 
 Ce projet vise à :  
@@ -57,11 +55,12 @@ Lancez le serveur Jupyter :
     jupyter notebook
 ```
 Ouvrez les notebooks depuis l'interface.
+
 ---
 
 
 ## 📊 Résultats attendus
 
-    Performances des modèles : Comparaison avec les benchmarks DEFT 2009.
-    Insights analytiques : Étude des hyperparamètres et de leur impact.
-    Visualisations : Graphiques, matrices de confusion, et courbes ROC.
+ Performances des modèles : Comparaison avec les benchmarks DEFT 2009.
+ Insights analytiques : Étude des hyperparamètres et de leur impact.
+ Visualisations : Graphiques, matrices de confusion, et courbes ROC.
