@@ -38,7 +38,7 @@ Ce projet vise à :
 
 1. Clonez ce dépôt :  
 ```bash
-git clone https://github.com/lucilebessac/ml-political-texts-classifier.git
+git clone git@github.com:lucilebessac/ml-political-texts-classifier.git
 cd ml-political-texts-classifier
 ```
 
