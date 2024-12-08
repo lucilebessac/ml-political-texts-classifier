@@ -37,15 +37,16 @@ Ce projet vise à :
 ### Installation
 
 1. Clonez ce dépôt :  
-   ```bash
-   git clone https://github.com/<votre-utilisateur>/<nom-du-depot>.git
-   cd <nom-du-depot>
-   ```
-2. Installez les dépendances Python :
-   ```bash
+```bash
+git clone https://github.com/lucilebessac/ml-political-texts-classifier.git
+cd ml-political-texts-classifier
+```
 
-    pip install -r requirements.txt
-   ```
+2. Installez les dépendances Python :
+```bash
+
+ pip install -r requirements.txt
+```
 
 ### Lancement des notebooks interactifs
 
