@@ -25,10 +25,9 @@ Ce projet vise à :
 ## 🗂️ Structure du dépôt
 
 - `notebook/` : Notebooks Jupyter contenant le code source pour le prétraitement, l'entraînement et l'évaluation des modèles. 
-- `data/` : Données du projet (non incluses pour les raisons de taille/licence).  
+- `data/` : Données du projet (non incluses pour les raisons de taille/licence). Les données sont disponibles sur le site DEFT : https://deft.lisn.upsaclay.fr/.
 - `reports/` : Rapport final en format ACL (PDF).  
 - `README.md` : Ce fichier.  
-- `requirements.txt` : Liste des dépendances Python.  
 
 ---
 
