@@ -41,12 +41,6 @@ git clone git@github.com:lucilebessac/ml-political-texts-classifier.git
 cd ml-political-texts-classifier
 ```
 
-2. Installez les dépendances Python :
-```bash
-
- pip install -r requirements.txt
-```
-
 ### Lancement des notebooks interactifs
 
 Assurez-vous d'avoir Jupyter installé.
